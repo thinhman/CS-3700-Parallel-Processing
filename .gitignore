@@ -30,3 +30,7 @@ hs_err_pid*
 /HuffmanCoding/nbproject/private/
 /HuffmanCoding/build/
 /HuffmanCoding/dist/
+/BoundedBuffer/nbproject/private/
+/BoundedBuffer/build/
+/SieveOfEratosthenes_SingleThread/nbproject/private/
+/SieveOfEratosthenes_SingleThread/build/

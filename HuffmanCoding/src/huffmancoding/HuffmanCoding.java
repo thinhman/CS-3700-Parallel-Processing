@@ -72,7 +72,7 @@
 //        
 //        long endTime = System.nanoTime();
 //        long timeElapsed = endTime - startTime;
-//        System.out.format("-->Create the tree\nTime: %d ns\n", timeElapsed);
+//        System.out.format("-->Create the tree\nTime elasped: %d ns\n", timeElapsed);
 //        startTime = System.nanoTime();
 //        
 //        Encode(pq.peek(), "", encode); 
@@ -113,8 +113,8 @@
 //    
 //}
 //
-
-//        System.out.println("Encoding Key Output");
-//        for (Entry<Character, String> entry: encode.entrySet()) {
-//            System.out.println(entry.getKey() + ": " + entry.getValue());
-//        }
+//
+////        System.out.println("Encoding Key Output");
+////        for (Entry<Character, String> entry: encode.entrySet()) {
+////            System.out.println(entry.getKey() + ": " + entry.getValue());
+////        }
